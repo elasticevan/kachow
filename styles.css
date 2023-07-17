@@ -3,7 +3,6 @@
 body {
     color: #e0218a;
     background-color: #a0fffc;
-    font-weight: bold;
     font-family: Bartex;
     font-size: 22px;
     text-align: center;
@@ -12,11 +11,20 @@ body {
 a,
 b {
     text-decoration: none;
+    color: inherit;
 }
+
+b {
+    font-size: 30px;
+    font-weight: bold;
+    font-style: italic;
+}
+
 
 #header {
     font-family: Barbie;
     font-size: 250px;
+    font-weight: bold;
     text-align: center;
     padding-top: 10px;
     
