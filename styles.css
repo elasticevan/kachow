@@ -3,7 +3,7 @@
 body {
     color: #e0218a;
     background-color: #a0fffc;
-    font-family: Bartex;
+    font-family: Bartex, 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
     font-size: 22px;
     text-align: center;
 }
@@ -22,7 +22,7 @@ b {
 
 
 #header {
-    font-family: Barbie;
+    font-family: Barbie, fantasy;
     font-size: 250px;
     font-weight: bold;
     text-align: center;
