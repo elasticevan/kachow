@@ -63,10 +63,15 @@ body {
 .cars {
     background-color: #f4a2d0;
     display: flex;
-    justify-content: space-around;
+    justify-content: center;
+}
+.car_list {
+    display: flex;
+    justify-content: center;
     flex-wrap: wrap;
+    width: 90em;
     padding: 30px;
-    gap: 30px;
+    gap: 5em;
 }
 
 .vroom {
